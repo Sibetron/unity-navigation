@@ -62,12 +62,12 @@ cd unity-navigation/python
 pip install .
 ```
 
-4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the drlnd environment.
+4. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the drl environment.
 ```
-python -m ipykernel install --user --name drlnd --display-name "drlnd"
+python -m ipykernel install --user --name drl --display-name "drl"
 ```
 
-5. Before running code in a notebook, change the kernel to match the``` drlnd``` environment by using the drop-down ```Kernel``` menu.
+5. Before running code in a notebook, change the kernel to match the```drl``` environment by using the drop-down ```Kernel``` menu.
 Kernel
 
 ![alt text](https://github.com/Sibetron/unity-navigation/blob/master/kernel.png?raw=true)
