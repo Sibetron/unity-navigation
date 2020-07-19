@@ -38,7 +38,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Install Dependencies
 To set up your python environment to run the code in this repository, follow the instructions below.
 
-```1. Create (and activate) a new environment with Python 3.6.```
+1. Create (and activate) a new environment with Python 3.6.
 
 - Linux or Mac:
 ```
