@@ -57,8 +57,8 @@ activate drlnd
 
 3. Clone the repository (if you haven't already!), and navigate to the python/ folder. Then, install several dependencies.
 ```
-git clone https://github.com/udacity/deep-reinforcement-learning.git
-cd deep-reinforcement-learning/python
+git clone https://github.com/Sibetron/unity-navigation.git
+cd unity-navigation/python
 pip install .
 ```
 
